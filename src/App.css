@@ -1,0 +1,13 @@
+.App{
+    text-align: center;
+  }
+  
+  a{
+    text-decoration: none;
+    color: #000000;
+  }
+  
+
+  .hidden{
+    display: none;
+  }
